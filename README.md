@@ -1,7 +1,7 @@
 
 # Unit Conversion
 
-A simple but effective Unit Converter using the JavaFX library. 
+A simple Unit Converter using the JavaFX library. 
 
 ### Conversion Categories
 | **Length** | **Temperature** | **Mass** |
